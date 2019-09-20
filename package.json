@@ -21,7 +21,7 @@
     "url": "https://github.com/learn-co-curriculum/turning-api-responses-into-views-with-handlebars/issues"
   },
   "homepage": "https://github.com/learn-co-curriculum/turning-api-responses-into-views-with-handlebars#readme",
- "devDependencies": {
+  "devDependencies": {
     "expect": "^1.20.2",
     "jsdom": "^9.3.0",
     "mocha": "^2.5.3",
